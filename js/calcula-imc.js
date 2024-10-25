@@ -1,5 +1,5 @@
 var titulo = document.querySelector('.titulo');
-titulo.textContent = "Nícolas Nutrição";
+titulo.textContent = "DALCOMUNI Nutrição";
 
 var pacientes = document.querySelectorAll('.paciente');
 
